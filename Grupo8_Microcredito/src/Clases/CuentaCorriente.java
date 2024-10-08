@@ -1,5 +1,5 @@
 
-package grupo8_microcredito;
+package Clases;
 
 public class CuentaCorriente extends CuentaBancaria {
    private double limiteCredito;

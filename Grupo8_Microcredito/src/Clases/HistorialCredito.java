@@ -1,5 +1,5 @@
 
-package grupo8_microcredito;
+package Clases;
 
 public class HistorialCredito {
     private final Credito[] registroCredito;  // sin arrayList
